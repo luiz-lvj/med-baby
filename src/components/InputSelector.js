@@ -1,4 +1,4 @@
-import { useState } from "react/cjs/react.development";
+import { useState } from "react";
 import Selector from "./Selector";
 import data from "../data/data";
 

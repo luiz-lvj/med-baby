@@ -1,6 +1,6 @@
 import GlobalStyle from "./components/resetCSS";
 import TableSelector from "./components/TableSelector";
-import React  ,{useState,useEffect} from 'react';
+import React  ,{useState} from 'react';
 import WeekSelector from "./components/WeekSelector";
 import Header from "./components/Header";
 import InputSelector from "./components/InputSelector";

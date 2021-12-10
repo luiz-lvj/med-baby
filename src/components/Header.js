@@ -95,7 +95,7 @@ const HeaderStyle = styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: deepskyblue;
+    background-color: #6ca0dc;
     h1{
         display: block;
         color: #FFFFFF;

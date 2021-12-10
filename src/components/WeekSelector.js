@@ -1,5 +1,5 @@
 import Selector from "./Selector";
-import data from "../data/tables.json";
+import data from "../data/data";
 
 export default function WeekSelector(props){
     const { variable, setVariable, week, setWeek, option, setOption, resultValue, setResultValue, resultPercentile, setResultPercentile } = props;

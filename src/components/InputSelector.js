@@ -1,6 +1,6 @@
 import { useState } from "react/cjs/react.development";
 import Selector from "./Selector";
-import data from "../data/tables.json";
+import data from "../data/data";
 
 export default function InputSelector(props){
     const { variable, setVariable, week, setWeek, option, setOption, resultValue, setResultValue, resultPercentile, setResultPercentile } = props;

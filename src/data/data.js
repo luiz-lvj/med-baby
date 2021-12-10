@@ -1,4 +1,4 @@
-{
+const data = {
     "tables": {
         "atrio_ventricular_mm": [
             {
@@ -6850,3 +6850,5 @@
         ]
     }
 }
+
+export default data;

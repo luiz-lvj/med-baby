@@ -29,7 +29,7 @@ export default function WeekSelector(props){
                 <h1>Escolha uma variável de interesse</h1>
                 :<div>
                     <h1>Selecione a semana</h1>
-                    <select value="Selecione a semana"
+                    <select value={week}
                     onChange={e => handleChoiceWeek(e)}>
                      {getTableWeeks(variable).map( (weekOption, idx) => {
                         return(
